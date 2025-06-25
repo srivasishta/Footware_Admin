@@ -1,0 +1,32 @@
+# Flutter related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android related
+android/.gradle/
+android/app/build/
+android/app/google-services.json
+
+# iOS related
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GoogleService-Info.plist
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Web
+web/manifest.json
+
+# Other
+*.iml
+*.jks
+*.keystore
+.env
