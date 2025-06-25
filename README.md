@@ -1,16 +1,23 @@
-# footware
+# 👞 Footwear Admin Panel – Flutter + Firebase
 
-A new Flutter project.
+This is the **Admin-side mobile application** built using Flutter that enables store owners to add and manage footwear products** for their E-Commerce platform.
 
-## Getting Started
+> 💼 Designed for seamless inventory management of homemade/custom footwear products.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📦 Add new footwear products with:
+  - Product Name
+  - Description
+  - Price
+  - Brand
+  - Discount (Yes/No)
+  - Image URL
+- 🔥 Firebase Firestore integration for real-time database storage
+- 🧭 Navigation between home and add product pages
+- 💡 Simple UI for ease of use by non-technical admins
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
