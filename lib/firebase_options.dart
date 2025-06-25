@@ -2,12 +2,12 @@ import 'dart:io';
 
 import 'package:firebase_core/firebase_core.dart';
 
-FirebaseOptions firebaseOptions = Platform.isAndroid ?   const FirebaseOptions(apiKey: 'AIzaSyCVCcIS-SeNq3jxWYndA8JRUYw4lbBzLVg',
-    appId: '1:81784542920:android:55e7319a9378ab56d137fd',
-    messagingSenderId:'81784542920',
-    projectId: 'rapid-project-a7ffb'):
-    const FirebaseOptions(apiKey: 'AIzaSyCVNAjvKpp5xD1-tR3Ysrpg-3zESM_PQXA',
-        appId: 'com.example.footware',
-        messagingSenderId: '81784542920',
+FirebaseOptions firebaseOptions = Platform.isAndroid ?   const FirebaseOptions(apiKey: '',
+    appId: '',
+    messagingSenderId:'',
+    projectId: ''):
+    const FirebaseOptions(apiKey: '',
+        appId: '',
+        messagingSenderId: '',
         projectId:
-    '1:81784542920:ios:c0104b1e9e43a222d137fd');
+    '');
